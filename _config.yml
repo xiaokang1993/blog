@@ -104,6 +104,7 @@ theme_config:
     home: /
     about: /about/
     articles: /archives/
+    search: /search/
     projects: https://github.com/xiaokang1993
   social_links:
     -
