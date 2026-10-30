@@ -13,7 +13,7 @@ categories:
 ## 一、从一张图说起
 
 前阵子看到一张图，标题是《Agent 构成图解》，副标题很直白："以符箓为喻，理解智能体的关键组件"。
-![Agent 构成图解：以符箓为喻](/blog/images/agent-fu-map.jpg)
+![Agent 构成图解：以符箓为喻](/images/agent-fu-map.jpg)
 
 它把一张符拆开，每一块对应 Agent 的一个部件：
 
